@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/jams/Documents/GitHub/hello-world-cpp",
-      "program": "/home/jams/Documents/GitHub/hello-world-cpp/build/Debug/outDebug",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
